@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚡ Fun Fact: Besides coding, I love rhythmic gymnastics.<br>🤝 Open to: Collaborating on interesting projects or simply connecting with other developers.</p>
+<p align="left">⚡ Fun Fact: Besides coding, I love rhythmic gymnastics and sports in general.<br>🤝 Open to: Collaborating on interesting projects or simply connecting with other developers.</p>
 
 ###
 
